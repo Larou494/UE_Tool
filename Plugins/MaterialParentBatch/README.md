@@ -8,7 +8,7 @@
 
 **直接使用编译包：** 在 UE_Tool 仓库的 Downloads/v1.1.0 目录下载与你的 UE 次版本对应的压缩包。例如 UE 5.5 使用文件名带 `UE5.5` 的包。关闭目标工程，将压缩包里的 `MaterialParentBatch` 文件夹放到工程的 `Plugins` 目录；最终应存在 `你的工程/Plugins/MaterialParentBatch/MaterialParentBatch.uplugin`。重新打开工程即可。
 
-**使用源码：** 下载仓库源码后，把仓库根目录重命名为 `MaterialParentBatch`，放到工程的 `Plugins` 目录。使用对应版本 UE 与 C++ 工具链编译。纯蓝图工程可以先用下面的独立构建脚本生成编译文件，再安装插件。
+**使用源码：** 下载独立源码包后，解压并把其中的 `MaterialParentBatch` 文件夹放到工程的 `Plugins` 目录。如果下载的是整个 `UE_Tool` 仓库，则复制仓库内的 `Plugins/MaterialParentBatch` 文件夹。最终路径应为 `你的工程/Plugins/MaterialParentBatch/MaterialParentBatch.uplugin`。使用对应版本 UE 与 C++ 工具链编译。纯蓝图工程可以先用下面的独立构建脚本生成编译文件，再安装插件。
 
 每个 UE 次版本使用单独编译的 DLL。不要把 5.5 的 `Binaries` 复制给 5.6、5.7 或 5.8；不同引擎构建号也可能要求重新编译。源码描述文件不固定单一 `EngineVersion`，发布的编译包会标记实际构建版本。
 
