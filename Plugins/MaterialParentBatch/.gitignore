@@ -1,0 +1,8 @@
+/Artifacts/
+/Binaries/
+/Intermediate/
+/Saved/
+/.vs/
+*.sln
+*.pdb
+*.VC.db

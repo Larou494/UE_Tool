@@ -1,0 +1,32 @@
+[
+  {
+    "File": "MaterialParentBatch_v1.1.0_UE5.5_Win64.zip",
+    "EngineVersion": "5.5.4",
+    "Bytes": 284855,
+    "SHA256": "04597BD70E05B6C54F2C98F3CF4CC037C69B97EE5FFE581B42F4EAC1EEAB6A0F"
+  },
+  {
+    "File": "MaterialParentBatch_v1.1.0_UE5.6_Win64.zip",
+    "EngineVersion": "5.6.1",
+    "Bytes": 284558,
+    "SHA256": "B775D2C3C9BD7FC88AC2F7748EC7393C05D853E4119E1F8E3BE91C2C46A35BC1"
+  },
+  {
+    "File": "MaterialParentBatch_v1.1.0_UE5.7_Win64.zip",
+    "EngineVersion": "5.7.4",
+    "Bytes": 267787,
+    "SHA256": "5BC63F490633686C4D6FD5EDAF60429CCE3D25ECC8D24C1421F92EA5E4E71E58"
+  },
+  {
+    "File": "MaterialParentBatch_v1.1.0_UE5.8_Win64.zip",
+    "EngineVersion": "5.8.2",
+    "Bytes": 273755,
+    "SHA256": "A21A8A0693864AF46572663ECB6C5817C11AED59309F6AAD32861EFBAB2844C5"
+  },
+  {
+    "File": "MaterialParentBatch_v1.1.0_Source.zip",
+    "EngineVersion": "Source",
+    "Bytes": 29984,
+    "SHA256": "430D0699416916D081D13793BFAEFDE5DAD5EF54081887FEE2FB10A91FDBF78E"
+  }
+]

@@ -1,0 +1,7 @@
+**/Binaries/
+**/Intermediate/
+**/Saved/
+**/Artifacts/
+**/.vs/
+*.pdb
+*.sln

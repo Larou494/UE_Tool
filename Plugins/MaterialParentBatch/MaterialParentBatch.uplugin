@@ -1,0 +1,15 @@
+{
+  "FileVersion": 3,
+  "Version": 2,
+  "VersionName": "1.1.0",
+  "FriendlyName": "Material Parent Batch / 材质母材质批量替换",
+  "Description": "Collect material instances from assets or selected actors, preview and replace parents, or create isolated variants.",
+  "Category": "Editor",
+  "CreatedBy": "LaRou",
+  "CanContainContent": false,
+  "EnabledByDefault": true,
+  "Installed": false,
+  "Modules": [
+    { "Name": "MaterialParentBatch", "Type": "Editor", "LoadingPhase": "PostEngineInit", "PlatformAllowList": ["Win64"] }
+  ]
+}
